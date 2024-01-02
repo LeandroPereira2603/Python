@@ -12,6 +12,12 @@
 | Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 0 |
 
+
+## 📚 Tópicos de estudos  
+### Sintaxe da linguagem :
+
+
+
 ```python
 
 ## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
