@@ -1,3 +1,7 @@
+## Conjunto de tabuadas
+
+</p> O algoritmo calcula a multiplicação e mostra o resultado da tabuada completa , sendo alterado pelo úsuario o inicio e fim do conjunto  , se o usuario colocar o número de forma decrescente o sistema informa inválido .</p>
+
 ```python
 
 n = int(input('Digite o número inicial para o conjunto de tabuadas : '));
