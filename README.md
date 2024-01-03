@@ -19,7 +19,9 @@
 * [História e regra de sintaxe da linguagem](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es/historia-sintaxe-da-linguagem.md)
   
 ## 💻 Prática 
-### Alogoritmos : 
+
+### Alogoritmos :
+* [Tabuadas](https://github.com/LeandroPereira2603/Python/blob/main/pratica/algoritmos/tabuada.py)
 ```python
 
 ## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
