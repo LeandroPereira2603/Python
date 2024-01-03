@@ -21,7 +21,7 @@
 ## 💻 Prática 
 
 ### Alogoritmos :
-* [💻 Tabuada](https://github.com/LeandroPereira2603/Python/blob/main/pratica/algoritmos/tabuada.py)
+* 💻 [ Tabuada](https://github.com/LeandroPereira2603/Python/blob/main/pratica/algoritmos/tabuada.py)
 * 
   <br>
 ```python
