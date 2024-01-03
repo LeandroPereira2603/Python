@@ -4,5 +4,5 @@
 | Tipagem estática | não |
 | Tipagem fraca | sim | 
 | Tipagem forte | não |
-| Orientado a objeto | s|
-| Multiplataforma | s | 
+| Orientado a objeto | .|
+| Multiplataforma | .| 
