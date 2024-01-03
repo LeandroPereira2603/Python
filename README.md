@@ -16,7 +16,7 @@
 ## 📚 Tópicos de estudos  
 ### Sintaxe da linguagem :
 
-
+* [História e regra de sintaxe da linguagem](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es/historia-sintaxe-da-linguagem.md)
 
 ```python
 
