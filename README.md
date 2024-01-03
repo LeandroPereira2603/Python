@@ -8,7 +8,7 @@
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
 | Em desenvolvimento    |  🟡  | 0 |
-| Concluídos    |  💻  | 0 |
+| Concluídos    |  💻  | 1 |
 | Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 0 |
 
@@ -21,7 +21,9 @@
 ## 💻 Prática 
 
 ### Alogoritmos :
-* [Tabuadas](https://github.com/LeandroPereira2603/Python/blob/main/pratica/algoritmos/tabuada.py)
+* [💻 Tabuadas](https://github.com/LeandroPereira2603/Python/blob/main/pratica/algoritmos/tabuada.py)
+* 
+  <br>
 ```python
 
 ## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
