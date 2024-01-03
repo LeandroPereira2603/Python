@@ -1,4 +1,4 @@
-| Descrição | incluso   ]
+| Descrição | incluso   |
 | -- -- | -- -- | 
 | Tipagem dinâmica | sim | 
 | Tipagem estática | não |
