@@ -1,5 +1,6 @@
 # Python
- geral 
+ 
+<p> A qui tera todos os meus repositório sobre a linguagem python </p>
 
 
 <strong> Legenda :</strong>
