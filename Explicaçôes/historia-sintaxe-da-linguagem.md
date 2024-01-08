@@ -15,4 +15,6 @@
 
 # Regra de sintaxe
 
--
+* E mono-espaçado e indentado .
+* Não e óbrigatório colocar ponto e vírgula .
+
