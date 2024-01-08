@@ -1,3 +1,9 @@
+# Hoatória 
+
+-
+
+## Principais caracteristicas do Python
+
 | Descrição | incluso |
 | :--: | :--:| 
 | Tipagem dinâmica | sim | 
@@ -6,3 +12,7 @@
 | Tipagem forte | não |
 | Orientado a objeto |sim|
 | Multiplataforma | sim| 
+
+# Regra de sintaxe
+
+-
