@@ -13,12 +13,12 @@
 | Código Fonte - local do repositório | ☕| 
 
 
-## 📚 Tópicos de estudos  
+# 📚 Tópicos de estudos  
 ### Sintaxe da linguagem :
 
 * [História e regra de sintaxe da linguagem](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es/historia-sintaxe-da-linguagem.md)
   
-## 💻 Prática 
+# 💻 Prática 
 
 ### Alogoritmos :
 * 💻 [ Tabuada](https://github.com/LeandroPereira2603/Python/blob/main/pratica/algoritmos/tabuada.py)
