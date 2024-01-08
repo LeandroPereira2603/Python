@@ -17,4 +17,5 @@
 
 * E mono-espaçado e indentado .
 * Não e óbrigatório colocar ponto e vírgula .
+* Para definir a String pode ser apósteofo ou aspas duplas .
 
