@@ -4,13 +4,13 @@
 
 <strong> Legenda :</strong>
 
-|Descrição | Logotipo   | Total |
-|:--: |:--:|:--:|
-| Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 0 |
-| Concluídos    |  💻  | 1 |
-| Favorito | ⭐ | 0 |
-| Código Fonte - local do repositório | ☕| 0 |
+|Descrição | Logotipo   | 
+|:--: |:--:|
+| Abandonado | 🔴 | 
+| Em desenvolvimento    |  🟡  | 
+| Concluídos    |  💻  |
+| Favorito | ⭐ | 
+| Código Fonte - local do repositório | ☕| 
 
 
 ## 📚 Tópicos de estudos  
