@@ -12,6 +12,7 @@
 | Tipagem forte | não |
 | Orientado a objeto |sim|
 | Multiplataforma | sim| 
+| Multiparadigma | | 
 
 # Regra de sintaxe
 
