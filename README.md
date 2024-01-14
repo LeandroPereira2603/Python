@@ -20,7 +20,7 @@ Aqui tera todas as meus resumos da linguagem de programação javascript , com c
 
 ### Sobre :
 
-* [História e regra de sintaxe da linguagem](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es/historia-sintaxe-da-linguagem.md)
+* 🟡 [História e regra de sintaxe da linguagem](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es/historia-sintaxe-da-linguagem.md)
 * Boas práticas de programação
 
 ### Sintaxe da Linguagem python :
