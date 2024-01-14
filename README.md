@@ -13,11 +13,29 @@
 | Favorito | ⭐ | 
 | Código Fonte - local do repositório | ☕| 
 
+#  📚 Tópicos de estudos  
+## 📖 Anotações :
 
-# 📚 Tópicos de estudos  
-### Sintaxe da linguagem :
+Aqui tera todas as meus resumos da linguagem de programação javascript , com complementoa de referências de livros e conteúdo de cursos .
+
+### Sobre :
 
 * [História e regra de sintaxe da linguagem](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es/historia-sintaxe-da-linguagem.md)
+* Boas práticas de programação
+
+### Sintaxe da Linguagem python :
+
+* Declaração de variáveis
+* Operadores Aritiméticos
+* Operadores Relacionais
+* Operadores Lógicos
+* Operadores de comparação
+* Interpolação de variáveis
+* Concatenação de variáveis
+* Estrutura de desição ( if ,swicth case )
+* Função
+* Estrutura de repetição ( for, while, do while)
+* Array - Matriz
   
 # 💻 Prática 
 
