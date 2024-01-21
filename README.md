@@ -48,6 +48,7 @@ Aqui tera todas as meus resumos da linguagem de programação javascript , com c
 ## algoritmo , exemplo de sintaxe de python , calculo tabuada : 
 
 c = int(input(print('Digite o número ')));
+
 c=c +1;
 
 n = 0 ;
