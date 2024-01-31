@@ -178,21 +178,20 @@ Queue,stack,sort,map,set...
  Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar */
 
 
-
 print("Digite o número máximo de tabuadas que deseja visualizar ");
 
 c = 5;
 
-c++;
-var n = 0;
+c = c + 1;
+n = 0;
 for k in range(0,11):
+   print('');
    for i in range(0,11):
-      var result = n * i ;
-      print(' ',n,' x ',i,' = '+result);
+      result = n * i ;
+      print(' ',n,' x ',i,' = ',result);
   
-   n++;
+   n = n + 1;
    print("");
-
 
 ```
 
