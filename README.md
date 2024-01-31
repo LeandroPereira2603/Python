@@ -174,8 +174,7 @@ Queue,stack,sort,map,set...
 
 ```python
 
-/*LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo :
- Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar */
+## LLP - (Leandro Pereira) : um dos meus métodos prediiletos são a utilização do for , exemplo : Este algoritmo vai mostrar todas as tabuadas do 0 até o número que o usuario digitar 
 
 
 print("Digite o número máximo de tabuadas que deseja visualizar ");
