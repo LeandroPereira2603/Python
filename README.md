@@ -196,7 +196,7 @@ for k in range(0,11):
 
 ```
 
-## Calculo 2 
+Calculo 2 
 
 ```python
 
