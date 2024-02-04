@@ -106,7 +106,7 @@
  
 ### Cálculos :
 
-1. [ Tabuada.md  ] ☕  [ Tabuada.py] 
+1. [ Tabuada.md  ](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es%2Ftabuada.md) ☕  [ Tabuada.py] 
 1. [  Metódo-de-butterfly.md  ] ☕ [ Metódo-de-butterfly.py]🗺️ ( EUA : English )
 1. [ Imc.md] ☕ [ Imc.py]
 1. [ Circuferência do circulo.md ] ☕  [ Circuferência do circulo.py ]
@@ -126,8 +126,8 @@
  
 **Basic problems** for anyones who has just started to program .. 
 
-1. ✔ [ Hello-world.md]
-1. ✔ [ Extremely-basic.md ]
+1. [ Hello-world.md]
+1. [ Extremely-basic.md ]
 1. [ Area-of-a-circle.md]
 1. [ Simple-sum.md]
 1. [ Simple-product.md]
