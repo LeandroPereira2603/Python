@@ -71,7 +71,7 @@
 * [ Operadores Lógicos ]
 * [ Operadores de comparação ]
 * [ Interpolação de variáveis ]
-* [ Concatenação de variáveis ]
+* [ Concatenação de variáveis ](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es%2FConcatena%C3%A7%C3%A3o%20de%20vari%C3%A1vel.md)
 * [ Estrutura de desição ( if ,swicth case ) ]
 * [ Função]
 * [ Estrutura de repetição ( for, while, do while)]
