@@ -60,7 +60,7 @@
 ### Sobre :
 
 * [ Fontes ]
-* [ História da linguagem | Sobre a linguagem | Regras de sintaxe ] (https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es%2Fhistoria-sintaxe-da-linguagem.md)
+* [ História da linguagem | Sobre a linguagem | Regras de sintaxe](https://github.com/LeandroPereira2603/Python/blob/main/Explica%C3%A7%C3%B4es%2Fhistoria-sintaxe-da-linguagem.md)
 * [ Boas práticas de programação]
 
 ### Sintaxe da Linguagem java :
