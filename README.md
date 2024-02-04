@@ -6,7 +6,6 @@
 
 |Descrição | Logotipo   |
 |:--: |:--:|
-| Abandonado | 🔴 | 
 | Em desenvolvimento    |  🟡  | 
 | Projeto concluído    |  💻  | 
 | Repositório Favorito | ⭐ | 
